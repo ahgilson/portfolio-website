@@ -127,6 +127,11 @@ button:hover,.button:hover, button:focus, .button:focus{
     margin-left: 15px;
 }
 
+.brand-logo{
+    width:200px;
+    height:auto;
+}
+
 .page-footer{
     clear: both;
     display: flex;
